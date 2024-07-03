@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "vite": "^5.3.3"
   },
   "scripts": {
     "frontend": "cd frontend && npm run dev",
