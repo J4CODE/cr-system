@@ -6,13 +6,13 @@
 An awesome company that I was excited about interviewing with.
 
 - Why did I build this project?
-Nothing says more than talking about a project than actually building one. So I built this in reference to the relevance of the industry software applications subject and was incredibly inspired to really demonstarte the skills in doing so. bthis is just a small demo that is also built to scale....Massively!
+Nothing says more than talking about a project than actually building one. So I built this about the relevance of the industry software applications subject and was incredibly inspired to really demonstrate the skills in doing so. This is just a small demo that is also built to scale...Massively!
 
 - What problem does this MERN Stack application solve?
-The tracking of the continously and ever growing Cannabis Regulatory System in RFID Tracking for assests.
+Tracking the continuous and ever-growing Cannabis Regulatory System in RFID Tracking for assets.
 
 - What did I learn about building this project?
-Learned about one of the most sophisticated CRS systems in the cannabis sector, about tracking products, restricts diversion, enhancing regulatory adherence, and detering unethical market practices.
+Learned about one of the most sophisticated CRS systems in the cannabis sector, about tracking products, restricting diversion, enhancing regulatory adherence, and deterring unethical market practices.
 
 ## Table of Contents, Kind of.
 
@@ -36,7 +36,7 @@ Inspired by the Metrc's Company.
 
 J4Code _ One man Full Stack Software Developer PowerHouse!
 From the front to the back and beyond. 
-Meaning Sleep is a luxury. Eat. Code. Game. Sleep(Sometimes). Repeat. And...Coffee. Lot's of Coffee.
+Meaning Sleep is a luxury. Eat. Code. Game. Sleep(Sometimes). Repeat. And...Coffee. Lots of Coffee.
 
 ## License
 
