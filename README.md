@@ -30,6 +30,15 @@ Top Secret!
 
 Only for the Metrc's Team!
 
+## Quick and Brief Summary
+"I developed this cannabis regulatory system using the MERN stack, with React for the frontend, Node.js and Express for the backend, and MongoDB for the database. The project features a comprehensive set of functionalities, including user authentication, CRUD operations for managing plants, packages, products, and licenses, as well as seed-to-sale tracking from seed to retail point of sale.
+
+For the frontend, I utilized Vite for a fast development setup and Material UI for styling, ensuring a responsive and visually appealing user interface. I also implemented React Router for seamless navigation and protected routes for secure access control.
+
+On the backend, I leveraged Express for creating RESTful APIs and integrated MongoDB Atlas for scalable cloud storage.
+
+This project demonstrates my ability to build and deploy full-stack applications, manage state and authentication, and ensure a smooth user experience with responsive design and efficient routing."
+
 ## Credits
 
 Inspired by the Metrc's Company.
